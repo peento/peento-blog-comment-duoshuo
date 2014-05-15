@@ -18,11 +18,7 @@ app.use('blog-comment-duoshuo');
 配置
 ====
 
-```JavaScript
-config.duoshuo = {
-  name: '在多说网站上注册的short_name'
-};
-```
++ **comment_duoshuo_short_name** 在多说网站上注册的short_name
 
 
 授权协议
